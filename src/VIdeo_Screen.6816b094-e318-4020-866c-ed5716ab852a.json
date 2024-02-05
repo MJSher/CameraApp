@@ -1,4 +1,5 @@
 {
+    "id": "6816b094-e318-4020-866c-ed5716ab852a",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -652,7 +653,6 @@
             "name": "Layout2"
         }
     ],
-    "id": "6816b094-e318-4020-866c-ed5716ab852a",
     "thunkableVersion": 443,
     "name": "VIdeo_Screen"
 }
